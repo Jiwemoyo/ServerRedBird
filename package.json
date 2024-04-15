@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "proyecto web server",
   "main": "src/app.js",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/app.js"
   },
